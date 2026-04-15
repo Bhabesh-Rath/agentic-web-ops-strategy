@@ -19,6 +19,7 @@ This project defines the architecture for an AI-agent workforce designed to mana
 
 ---
 *© 2026 [Bhabesh Rath]. This document is a portfolio exercise and strategic proposal. Unauthorized commercial distribution or modification is prohibited under the CC BY-NC-ND 4.0 License.*
+
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 This work is licensed under a
